@@ -1,3 +1,6 @@
+/*
+JS Converter array->hashmap
+*/
 function mapArrayToHashByKey(arrData, keyName) {
   try {
     let getType = variable =>
